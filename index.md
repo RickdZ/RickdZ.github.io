@@ -3,4 +3,4 @@
 
 
 
-[Click me](https://rickdz.github.io/loadrunner-jwt.html){: .btn}
+[Implementing JWT in loadrunner script](https://rickdz.github.io/loadrunner-jwt.html){: .btn}
