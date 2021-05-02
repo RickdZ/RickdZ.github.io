@@ -1,5 +1,4 @@
 ---
-title: Performance testing/scripting
 with Rick de Zwaan
 ---
 
